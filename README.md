@@ -1,0 +1,1 @@
+Developed a multithreaded client-server system enabling clients to request system information and utilities. The server executes system commands based on the requests, sending the output back to clients.
